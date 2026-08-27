@@ -264,7 +264,7 @@ This kind of analysis mirrors real tasks a data/content analyst supports:
 This project shows my ability to take open-ended business questions, translate them into structured SQL logic, and extract insights that map directly to real decisions a streaming platform would make — from content acquisition to regional strategy to data quality management. It reflects core data analyst skills: aggregation, window functions, string/array handling, date logic, and conditional categorization, all applied to a business-relevant, non-trivial dataset.
 
 # Future Scope
-# Build a live dashboard (Power BI/Tableau) on top of these queries for interactive exploration.
-# Extend the country/genre analysis with time-series forecasting to predict future content trends.
+1. Build a live dashboard (Power BI/Tableau) on top of these queries for interactive exploration.
+2.Extend the country/genre analysis with time-series forecasting to predict future content trends.
 
 

@@ -1,3 +1,3 @@
 # netflix_sql_project
 
-! [] (https://github.com/shptech92/netflix_sql_project/blob/main/logo.png)
+![Netflix Logo](https://raw.githubusercontent.com/shptech92/netflix_sql_project/main/logo.png)

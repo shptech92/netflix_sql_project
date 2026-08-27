@@ -266,6 +266,6 @@ This project shows my ability to take open-ended business questions, translate t
 # Future Scope
 1. Build a live dashboard (Power BI/Tableau) on top of these queries for interactive exploration.
    
-2.Extend the country/genre analysis with time-series forecasting to predict future content trends.
+2. Extend the country/genre analysis with time-series forecasting to predict future content trends.
 
 
